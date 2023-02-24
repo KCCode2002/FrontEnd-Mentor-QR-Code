@@ -23,7 +23,7 @@ The project was to design a QR Code page that told visitors a small amount about
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/handwritten-htmlcss-qr-code-page-7aJ34o5jfo
 - Live Site URL: https://kccode2002.github.io/FrontEnd-Mentor-QR-Code/
 
 ## My process
